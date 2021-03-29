@@ -15,6 +15,7 @@ namespace DotNet6.Web.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+        //demo comment
             _logger = logger;
         }
 
